@@ -10,4 +10,4 @@
 - [Deeplink](deeplink.md)
 - [Admob](admob.md)
 - [Storage](storage.md)
-- [Projects built with Firebase platform](projects.md)
+- [Firebase Projects](projects.md)
