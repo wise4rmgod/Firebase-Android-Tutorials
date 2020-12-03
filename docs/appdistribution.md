@@ -104,5 +104,12 @@ if you open it with your PC you will get the following message below
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*7GGj5P6tTzRN0qUDtxhsiQ.png)
 
-# app Distribution
-Open it with your mobile device and continue the setup process.
+**Step 7** Open the mail on an Android device
+
+In this section, you will open the mail on an Android device and proceed
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*XkOgc1LH7Fzd_-uwbSeFUg.jpeg)
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*Z0M_ZPR71nxi-t5GTA6SDA.jpeg)
+
+Click the **“Allow”** button to proceed
