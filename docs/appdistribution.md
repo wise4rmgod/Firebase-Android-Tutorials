@@ -104,4 +104,5 @@ if you open it with your PC you will get the following message below
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*7GGj5P6tTzRN0qUDtxhsiQ.png)
 
+# app Distribution
 Open it with your mobile device and continue the setup process.
