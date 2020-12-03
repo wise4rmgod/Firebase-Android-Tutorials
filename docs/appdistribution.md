@@ -182,3 +182,17 @@ Click **ALLOW**
 If you click the allow button, Google Play Protect will trust this source that built the App Tester.
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*MqWSc40EVcy8y6-VjZQkFQ.jpeg)
+
+Click **Open** to see the app
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*SF8mxv_OGdgXAmCFM7yr0w.jpeg)
+
+Now the app is on the user's device ready for testing.
+anytime you push new changes, they will just go to the App Tester Android app on their device and open it.
+I would say that Android developers now have their own **Test Flight**
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*Q1KXbc3m-DhGjDVOGoWSBA.png)
+
+If you go to the firebase platform and you will see that the invited is 1, Accepted is 1, and the downloaded also is 1.
+this shows the app developer that the tester has accepted and downloaded the Android app.
+Congratulation you can now share your signed APK with secure testers.
