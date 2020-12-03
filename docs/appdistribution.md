@@ -177,3 +177,8 @@ Click **INSTALL ANYWAY** to proceed, anyways the reason this dialog came up is t
 > It's not advisable to download Android apps outside Google Play Store, because all apps are scanned and free of malware, so its highly recommended to download only from Google Play Store.
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*5Pu1AfIFvr0TAyClIzeN9g.jpeg)
+
+Click **ALLOW**
+If you click the allow button, Google Play Protect will trust this source that built the App Tester.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*MqWSc40EVcy8y6-VjZQkFQ.jpeg)
