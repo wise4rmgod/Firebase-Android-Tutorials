@@ -113,3 +113,27 @@ In this section, you will open the mail on an Android device and proceed
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*Z0M_ZPR71nxi-t5GTA6SDA.jpeg)
 
 Click the **“Allow”** button to proceed
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*I73Hd_iP6pe6aqf-MnoWdQ.jpeg)
+
+Choose an email to sign in to Firebase using your mobile device
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*87p_YJr4gi1xgvYeuVPUAQ.jpeg)
+
+Click the **“Sign in with Google”** and sign in with the email address you used in applying for App testing.
+
+**Step 2:** Download Firebase App Tester
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*YqKMTDVjFYh9m3Ih8zy6yw.jpeg)
+
+Click the check box to give Firebase consent and click the **“Accept Invitation”**
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*Ypau0fIXyQAE6G04z4wZBQ.jpeg)
+
+Click the **Accept invitation** button it will take you to the screen where you can download Firebase App Tester to your Android device
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*KlwzmpNVk6w5FGCOf0rRPQ.jpeg)
+
+Click the **Download** button to download the Firebase App Tester to your Android device
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*iL-qbgBLoF5tkqC9MBLUzA.jpeg)
