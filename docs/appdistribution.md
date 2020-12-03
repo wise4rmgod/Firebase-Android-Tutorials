@@ -137,3 +137,23 @@ Click the **Accept invitation** button it will take you to the screen where you 
 Click the **Download** button to download the Firebase App Tester to your Android device
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*iL-qbgBLoF5tkqC9MBLUzA.jpeg)
+
+Click **“OK”**
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*_7nAai6SqRh1I0ypMJk_mw.jpeg)
+
+Check your notification for the downloaded app or search in the file explorer and locate the download folder. install it
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*grYUozyVGB9ldpCKYuA6mg.jpeg)
+
+Click the **INSTALL BUTTON**
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*rmEnYv5eIRBAh2PuRkh5aQ.jpeg)
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*_nhDrqS5NwVUCaVPLNRDww.jpeg)
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*Z0M_ZPR71nxi-t5GTA6SDA.jpeg)
+
+Click the **Allow** button to accept the terms of service of the Firebase App Distribution
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*-EGzMYbgviTyN_UPHxla0w.jpeg)
