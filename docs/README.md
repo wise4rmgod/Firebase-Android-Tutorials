@@ -40,4 +40,9 @@ In this tutorial, I strongly recommend that you gain some basic knowledge of Kot
 | Improve app quality|
 | Grow your business|
 
+## Lets connect
+
+Twitter: https://twitter.com/Joklinztech
+LinkedIn: https://www.linkedin.com/in/wisdom-nwokocha-76212a77/
+
 
