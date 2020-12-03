@@ -3,6 +3,7 @@
 - [Authentication](authentication.md)
 - [Cloud Firestore](cloudfirestore.md)
 - [App Distribution](appdistribution.md)
+- [Automate App Distribution with Bitrise](testlab.md)
 - [Test Lab](testlab.md)
 - [Automate Test Lab with Bitrise](testlab.md)
 - [Performance and Monitoring](monitoring.md)
