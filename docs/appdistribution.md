@@ -157,3 +157,23 @@ Click the **INSTALL BUTTON**
 Click the **Allow** button to accept the terms of service of the Firebase App Distribution
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*-EGzMYbgviTyN_UPHxla0w.jpeg)
+
+Click on the project to access it
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*KS13T94VJdjeOiAV3KHyYw.jpeg)
+
+Click on the Download to download the project in your tester app
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*A06V0bDi146pwyssAeDVsw.jpeg)
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*DIK_HTZXFbiKmPQH8_cxTg.jpeg)
+
+Click on the **INSTALL** button to install the project in your tester app and also on the device too.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*tht0wUsBu4p1uqVwZLxgow.jpeg)
+
+Click **INSTALL ANYWAY** to proceed, anyways the reason this dialog came up is that you didn't download the app from the play store so Google play protect is not sure if the app has malicious content or not.
+
+> It's not advisable to download Android apps outside Google Play Store, because all apps are scanned and free of malware, so its highly recommended to download only from Google Play Store.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1214/1*5Pu1AfIFvr0TAyClIzeN9g.jpeg)
