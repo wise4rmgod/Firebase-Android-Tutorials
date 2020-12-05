@@ -1,4 +1,4 @@
-# Implementation of Firebase Cloud firestore 
+# Building a Joke App with Cloud Firestore using Kotlin 
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*rRs5kgidBosSGeRlv0LxvA.jpeg)
 
