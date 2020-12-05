@@ -19,7 +19,6 @@ In this tutorial, I strongly recommend that you gain some basic knowledge of Kot
 - Cloud Firestore
 - App Distribution
 - Test Lab
-- Performance and Monitoring
 - Remote Config
 - Crashlytics
 - Deeplink
