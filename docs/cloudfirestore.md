@@ -116,3 +116,133 @@ Now you are ready to send data and receive data from the Cloud Firestore databas
 
 Follow the steps below to save and retrieve data from Cloud firestore
 
+**Step 1:** Add the required dependencies and client libraries to your app.
+```
+
+implementation 'com.google.firebase:firebase-firestore-ktx:21.6.0'
+
+```
+
+**Step 2:** Initialize an instance of Cloud Firestore
+
+```
+val db = Firebase.firestore
+
+```
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*V-RgUPCSQs8wlKDXpyrD8Q.png)
+
+**Step 3:** Add data from android app to Cloud Firestore
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*TnT8PmzjxY_tbpmyqAsw5g.png)
+
+```
+
+val user = hashMapOf(
+    "joke" to jokename,
+)
+
+db.collection("Jokes").add(user)
+    .addOnSuccessListener {
+
+        Toast.makeText(application, "Saved Successfully", Toast.LENGTH_SHORT).show()
+    }
+    .addOnFailureListener {
+        Toast.makeText(application, "Not Successful", Toast.LENGTH_SHORT).show()
+    }
+
+```
+
+**Step 4:** Retrieve data from Cloud Firestore
+
+you will create a class with the field names that will correspond to the Cloud Firestore field names
+
+Joke Model Class
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*nXakP-dMnmiTjmbmJ2wPRw.png)
+
+```
+class JokesModel(
+    var joke: String? = null
+)
+
+```
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*GgTPZ3t_GHaKsmNzyTXyQg.png)
+
+```
+db.collection("Jokes").addSnapshotListener  { snapshot, e ->
+
+    val getjokes = ArrayList<JokesModel?>()
+
+    for (document in snapshot!!){
+
+            getjokes.add(
+                JokesModel(
+                    document.getString("joke")
+                )
+            )
+            val ty = Adapter(getjokes, applicationContext)
+            recy.adapter = ty
+            ty.notifyDataSetChanged()
+
+    }
+
+```
+
+Create an Adapter Class
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*6PxG18VyZKEj0L74nwuAkw.png)
+
+```
+
+
+class Adapter(
+    private var dataList: ArrayList<JokesModel?>,
+    private val context: Context
+) :
+    RecyclerView.Adapter<Adapter.ViewHolder>() {
+
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
+        return ViewHolder(
+            LayoutInflater.from(context).inflate(
+                R.layout.list_of_jokes,
+                parent,
+                false
+            )
+        )
+
+    }
+
+    override fun getItemCount(): Int {
+        return dataList.size
+    }
+
+    override fun onBindViewHolder(holder: ViewHolder, position: Int) {
+        val dataModel = dataList.get(position)
+        holder.listj.text = dataModel?.joke
+
+    }
+
+    class ViewHolder(itemLayoutView: View) : RecyclerView.ViewHolder(itemLayoutView) {
+        var listj: TextView = itemLayoutView.findViewById(R.id.listjoke)
+
+    }
+
+
+}
+
+
+
+```
+
+Finally, you can test your joke app now
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*s1VEDg9CMa6PfpzDQkLATw.png)
+
+Cloud Firestore database
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*qY4dqyzHC6NKLLrxaCGNoQ.png)
+
+With Cloud Firestore you can build awesome projects not only for Android, but it also covers so many platforms like IOS, Web, Cross-platform( Flutter, React Native), and more.
+Thanks for reading and I hope it will help you with your next project.
+Github: https://github.com/wise4rmgod/JokeFirestoreExample
