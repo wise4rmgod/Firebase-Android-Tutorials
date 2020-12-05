@@ -98,4 +98,21 @@ Your Cloud Firestore project is creating
 
 you now have your Cloud Firestore database all setup
 
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*oaTMwzCviNkUL95G62XrRA.png)
+
+Your project is ready to use the Cloud Firestore. you can see that your android studio project is connected, now click “ Add Cloud Firestore to your app”
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*X4R9jnrTyugpwoN-gZm0NA.png)
+
+It will open the below Image, Click **“Accept Changes”**
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*jtw15_wo6k5jqdM4a04E5A.png)
+
+Congratulation you have successfully configured your Android project with Cloud Firestore
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*mhFsJOxvo4-HXftOPFHTRw.png)
+
+Now you are ready to send data and receive data from the Cloud Firestore database.
+
+Follow the steps below to save and retrieve data from Cloud firestore
 
