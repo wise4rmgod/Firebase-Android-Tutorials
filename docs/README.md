@@ -15,13 +15,11 @@ In this tutorial, I strongly recommend that you gain some basic knowledge of Kot
 ## Table of Content
 
 - Set up
-- Authentication
 - Cloud Firestore
 - App Distribution
 - Test Lab
 - Remote Config
 - Crashlytics
-- Deeplink
 - Admob
 - Storage
 - Projects built with Firebase platform

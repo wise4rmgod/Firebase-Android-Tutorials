@@ -1,6 +1,5 @@
 - [Overview](README.md)
 - [set up](setup.md)
-- [Authentication](authentication.md)
 - [Cloud Firestore](cloudfirestore.md)
 - [App Distribution](appdistribution.md)
 - [Automate App Distribution with Bitrise](testlab.md)
