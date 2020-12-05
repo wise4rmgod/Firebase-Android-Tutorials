@@ -7,7 +7,6 @@
 - [Test Lab](testlab.md)
 - [Automate Test Lab with Bitrise](testlab.md)
 - [Performance and Monitoring](monitoring.md)
-- [Remote Config](Config.md)
 - [Crashlytics](crashlytics.md)
 - [Deeplink](deeplink.md)
 - [Admob](admob.md)
