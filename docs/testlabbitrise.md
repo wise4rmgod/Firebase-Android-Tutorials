@@ -55,3 +55,10 @@ dependencies {
 ```
 
 **Step 2:** Create a Unit test class
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*i9aXvBq9t1doegl--fkIIg.png)
+
+**Step 3:** Write your Unit test
+
+This entirely depends on what you want to test, if you check the image below you will see what I am trying to test for.
+What I did was to create a function that does a specific task and returns a value, so I am checking for an “@” in the return value.
