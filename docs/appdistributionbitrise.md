@@ -87,3 +87,38 @@ Once the authentication process is completed, your token is printed out on the t
 you will be taken to the Firebase dashboard to login with your preferred email address. then the below image shows you are good to go.
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*1AKgopBWNnRoDaelKaOnUg.png)
+
+Now, Click on the Firebase token the image below will appear
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*td78WUFIU0Dt7Nr5JK3smg.png)
+
+Click on “ Select secret variable”
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*ZnAUKBi0mqcFsAXMcwBWyA.png)
+
+Add the token you got from your terminal in the “value” and give it a name in the “key” after that just click on “Add new”
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*bLr8nA3qe7VN58tJ6Cw_4g.png)
+
+Another thing to note is that you can add a “Release note to your testers”, “include a Test Group” that is configured on the Firebase App Distributions dashboard, “ and also add “Testers” all in the Bitrise Platform without going to the Firebase Dashboard.
+
+## 2: App Path
+For this section, the system has automatically picked a preferred APK location so just leave it untouched.
+
+## 3: Firebase App ID
+Log in to your Firebase console, select your project, and navigate to Project Settings.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*1iYpS4YF3qRrREqVGuLFGg.png)
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*lf9TFbNZ57qwF-NVB7EBpA.png)
+
+When the screen opens you can find your App Id under the General tab. (Example App ID: 1:1234567890:android:0a1b4c3d0e5f68895)
+The next step is to select the App Distribution tab and hit the Get started button.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*CqZ1xI8uHu5CeunXvNQIPw.png)
+
+if you push your code to Github, Bitbucket, Gitlab, Bitrise will automatically run a build on your repo and send the app to your tester for testing.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*jsqpibkMD6YxTpaA3ex96w.png)
+
+Congratulation on automating your app testing process.
