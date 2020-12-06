@@ -24,3 +24,19 @@ Learn how to connect /create a firebase project in this link https://wise4rmgoda
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*RFCjCeQYB3QOnuy39rqUSQ.png)
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*FTF59yyFy2QcDnyqtmK8Tw.png)
+
+to add the necessary dependencies click “Add Performance Monitoring ”
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*NztMwVmnB7X4T0h-SLqX9w.png)
+
+Click on “Accept Changes” to add them to your dependencies
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1020/1*QlyngSMrvOxhsbk7M3rXNA.png)
+
+Goto the firebase console
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*NDbMwqCMu67VbDqh0eBCxQ.png)
+
+At this point, you will have to wait for a few minutes so that your project will be detected.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*NUuhlhzD99OWI9wTh2PwFQ.png)
