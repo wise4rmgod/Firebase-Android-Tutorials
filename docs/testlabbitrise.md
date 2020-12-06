@@ -8,3 +8,8 @@ In this tutorial, you will learn how about unit testing, its benefits, its types
 
 ## What is Unit Testing?
 Unit Testing is a type of software testing where individual units or components of a software are tested. The purpose is to validate that each unit of the software code performs as expected. Unit Testing is done during the development (coding phase) of an application by the developers. Unit Tests isolate a section of code and verify its correctness. A unit may be an individual function, method, procedure, module, or object.
+
+## Types of Unit Testing
+In software engineering we have two types of unit testing which are:
+- Manual
+- Automated
