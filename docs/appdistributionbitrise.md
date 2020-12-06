@@ -42,3 +42,11 @@ Now to add a new Step, you will click on the plus sign in the Workflow
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*ttR1C4NwoL9PoB4UEd8i1w.png)
 
 When you click the plus sign you will see many Steps to choose from, but in this tutorial, you need to select a Firebase App Distribution Step.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*UTxpQLVCnL7g6p7ttMz8vg.png)
+
+You can see it's still in the BETA stage of development, so select the Firebase App Distributions.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*uiUUNYkM1l1id_3IkWpV6A.png)
+
+The WorkFlow we have is looking good, but in this tutorial, we don't need some steps, let's remove the “ Do anything with Script step” and maintain the order of the step.
