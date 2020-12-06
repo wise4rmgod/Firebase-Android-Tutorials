@@ -98,3 +98,26 @@ When you select the Firebase Android Unit Test Step the Image below will show.
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*_CXGPiFacKOtYjTu3MvMWw.png)
 
 > Make sure you have the Deploy to Bitrise.io Step in your Workflow, Once the build is finished, you will be able to view your test reports.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/0*1GjnIEjqQzn6qPT4.png)
+
+Then click save(X+S) and push your new changes to your preferred source code management(Github, Gitlab, Bitbucket, etc)
+After a successful Build goto your dashboard and click on the build.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/0*DrXvJgtsxc6jzS3P.png)
+
+After clicking on the Build the below Image will open
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*nhhXU-7zz-s1kb9l6UYSEw.png)
+
+To see your Android Unit Test report click on the **“Test reports”** button to get the below image.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*nVYOEdrmKKSvMUYJXkzk1A.png)
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*a7fnh0qKujgvkZQSD0tMeQ.png)
+
+Click on the “Test Case” button and the image below will show the test class names and duration
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*TE6Wnuv5EocCXnC3bzoDww.png)
+
+That’s how easy it is to automate unit testing in Android development using Bitrise.
