@@ -72,16 +72,18 @@ There are three important things here
 3: Firebase App ID
 
 ## 1: Firebase Token
-Install the Firebase CLI if you haven’t got it on your machine already.
+Install the Firebase CLI if you haven’t got it on your machine already. check link for more info: https://firebase.google.com/docs/cli#install_the_firebase_cli
 ```
 
 // auto install script for Mac OS or Linux users> curl -sL firebase.tools | bash
 ```
 
-To Use the CLI with CI systems login into the Firebase and get a token.
+To Use the CLI with CI systems login into the Firebase and get a token. check link for more info: https://firebase.google.com/docs/cli#cli-ci-systems
 ```
-> firebase login:ci
+ firebase login:ci
 ```
 
 Once the authentication process is completed, your token is printed out on the terminal. (Example token: 1/a1gqPSI3ryNcsDiZnCaHnY-hg9u9nJeosz3iNPe-S-RLdmqdypiJMOjoeOhOGsWK)
 you will be taken to the Firebase dashboard to login with your preferred email address. then the below image shows you are good to go.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*1AKgopBWNnRoDaelKaOnUg.png)
