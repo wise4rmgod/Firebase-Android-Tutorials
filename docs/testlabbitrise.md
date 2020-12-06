@@ -33,3 +33,25 @@ There are lots of free tools that will assist a developer to test his code, belo
 **Truth:** Truth is a fluent and flexible open-source testing framework designed to make test assertions and failure messages more readable. learn more https://truth.dev/
 
 **Hamcrest:** Hamcrest is a framework for writing matcher objects allowing ‘match’ rules to be defined declaratively. learn more http://hamcrest.org/JavaHamcrest/tutorial
+
+## How to do Unit Testing
+
+Let's follow the step by step guide below in creating your first Unit test:
+
+**Step 1:** Add the necessary dependency for Truth/Hamcrest
+but in this tutorial, we will make use of Truth
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*iYpnGrTHCQBA4CbAB2Iczw.png)
+
+```
+
+repositories {
+  mavenCentral()
+}
+dependencies {
+  testImplementation "com.google.truth:truth:1.1"
+}
+
+```
+
+**Step 2:** Create a Unit test class
