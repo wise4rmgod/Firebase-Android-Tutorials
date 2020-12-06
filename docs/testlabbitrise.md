@@ -13,3 +13,10 @@ Unit Testing is a type of software testing where individual units or components 
 In software engineering we have two types of unit testing which are:
 - Manual
 - Automated
+
+## Benefits of Unit Testing?
+- Unit testing will help the developer to fix/catch bugs early in the software development.
+- It helps the developers to understand the codebase.
+- unit-testing your project will help the developer structure the codebase and use an architecture
+- you can test individual part of your code
+- it saves time and cost in testing because you are using the JVM to run your test
