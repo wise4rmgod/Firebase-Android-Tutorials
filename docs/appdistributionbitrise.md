@@ -61,3 +61,27 @@ The WorkFlow we have is looking good, but in this tutorial, we don't need some s
 4: Firebase App Distribution
 
 Click on the “Firebase App Distribution” step to configure it
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*_SSWh1J9jZNbEDCJWbQfzA.png)
+
+There are three important things here
+1: Firebase Token
+
+2: App Path
+
+3: Firebase App ID
+
+## 1: Firebase Token
+Install the Firebase CLI if you haven’t got it on your machine already.
+```
+
+// auto install script for Mac OS or Linux users> curl -sL firebase.tools | bash
+```
+
+To Use the CLI with CI systems login into the Firebase and get a token.
+```
+> firebase login:ci
+```
+
+Once the authentication process is completed, your token is printed out on the terminal. (Example token: 1/a1gqPSI3ryNcsDiZnCaHnY-hg9u9nJeosz3iNPe-S-RLdmqdypiJMOjoeOhOGsWK)
+you will be taken to the Firebase dashboard to login with your preferred email address. then the below image shows you are good to go.
