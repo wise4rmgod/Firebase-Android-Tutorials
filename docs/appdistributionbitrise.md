@@ -50,3 +50,14 @@ You can see it's still in the BETA stage of development, so select the Firebase 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*uiUUNYkM1l1id_3IkWpV6A.png)
 
 The WorkFlow we have is looking good, but in this tutorial, we don't need some steps, let's remove the “ Do anything with Script step” and maintain the order of the step.
+
+> these steps need to be before “Firebase App Distribution” please follow the order below.
+1: Install missing Android SDK
+
+2: Android Lint
+
+3: Android Build
+
+4: Firebase App Distribution
+
+Click on the “Firebase App Distribution” step to configure it
