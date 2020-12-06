@@ -40,3 +40,9 @@ Goto the firebase console
 At this point, you will have to wait for a few minutes so that your project will be detected.
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*NUuhlhzD99OWI9wTh2PwFQ.png)
+
+In a few minutes time, you will start seeing the results
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*F-JX9azcs_d64Sh6rPA2kg.png)
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*A_tt54ACmfNi0yRG9AD_RQ.png)
