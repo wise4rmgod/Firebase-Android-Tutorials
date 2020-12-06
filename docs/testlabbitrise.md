@@ -62,3 +62,39 @@ dependencies {
 
 This entirely depends on what you want to test, if you check the image below you will see what I am trying to test for.
 What I did was to create a function that does a specific task and returns a value, so I am checking for an “@” in the return value.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1332/1*KU3GOVz7uLBCeK5ptYksRQ.png)
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/670/1*5vowSFUHG8npjJ-VSvY8sA.png)
+
+
+you will see I am getting a failed test because it didn't meet the requirement now lemme fix the bug by adding an “@” sign
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*iMvIST1IorOVFJk5xmv67g.png)
+
+**Step 4:** Add the Firebase Android Unit Test Step
+
+To add it, go to the dashboard -> Click on the App then select the project you want to automate the testing process.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/0*ML8wtq7ybX9H4B2W.png)
+
+After selecting the app It will open the image below, then you Click on “Workflow”
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/0*cR4zSiE6d7WUAfLA.png)
+
+The image below will show
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/0*l93GThRCb5QHFykL.png)
+
+Now to add a new Step, you will click on the plus sign in the Workflow
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/0*mhyHDuPdCjGL7vxJ.png)
+
+When you click the plus sign you will see many Steps to choose from, but in this tutorial, you need to select a Firebase Android Unit Test Step.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/0*x6XaTztstYjsp_TB.png)
+
+When you select the Firebase Android Unit Test Step the Image below will show.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*_CXGPiFacKOtYjTu3MvMWw.png)
+
+> Make sure you have the Deploy to Bitrise.io Step in your Workflow, Once the build is finished, you will be able to view your test reports.
