@@ -24,12 +24,12 @@ In software engineering we have two types of unit testing which are:
 ## Unit Testing Tools
 There are lots of free tools that will assist a developer to test his code, below are a few of them:
 
-**Junit:** Unit is a unit testing framework for the Java programming language. JUnit has been important in the development of test-driven development and is one of a family of unit testing frameworks which is collectively known as xUnit that originated with SUnit. learn more here
+**Junit:** Unit is a unit testing framework for the Java programming language. JUnit has been important in the development of test-driven development and is one of a family of unit testing frameworks which is collectively known as xUnit that originated with SUnit. learn more https://junit.org/junit5/
 
-**Robolectric:** Robolectric lets you run your tests on your workstation, or on your continuous integration environment in a regular JVM, without an emulator. learn more here
+**Robolectric:** Robolectric lets you run your tests on your workstation, or on your continuous integration environment in a regular JVM, without an emulator. learn more http://robolectric.org/
 
-**Mockito:** Mockito is a mocking framework that tastes really good. It lets you write beautiful tests with a clean & simple API. learn more here
+**Mockito:** Mockito is a mocking framework that tastes really good. It lets you write beautiful tests with a clean & simple API. learn more https://site.mockito.org/
 
-**Truth:** Truth is a fluent and flexible open-source testing framework designed to make test assertions and failure messages more readable. learn more here
+**Truth:** Truth is a fluent and flexible open-source testing framework designed to make test assertions and failure messages more readable. learn more https://truth.dev/
 
-**Hamcrest:** Hamcrest is a framework for writing matcher objects allowing ‘match’ rules to be defined declaratively. learn more here
+**Hamcrest:** Hamcrest is a framework for writing matcher objects allowing ‘match’ rules to be defined declaratively. learn more http://hamcrest.org/JavaHamcrest/tutorial
