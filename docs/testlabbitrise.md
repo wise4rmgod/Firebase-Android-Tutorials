@@ -20,3 +20,16 @@ In software engineering we have two types of unit testing which are:
 - unit-testing your project will help the developer structure the codebase and use an architecture
 - you can test individual part of your code
 - it saves time and cost in testing because you are using the JVM to run your test
+
+## Unit Testing Tools
+There are lots of free tools that will assist a developer to test his code, below are a few of them:
+
+**Junit:** Unit is a unit testing framework for the Java programming language. JUnit has been important in the development of test-driven development and is one of a family of unit testing frameworks which is collectively known as xUnit that originated with SUnit. learn more here
+
+**Robolectric:** Robolectric lets you run your tests on your workstation, or on your continuous integration environment in a regular JVM, without an emulator. learn more here
+
+**Mockito:** Mockito is a mocking framework that tastes really good. It lets you write beautiful tests with a clean & simple API. learn more here
+
+**Truth:** Truth is a fluent and flexible open-source testing framework designed to make test assertions and failure messages more readable. learn more here
+
+**Hamcrest:** Hamcrest is a framework for writing matcher objects allowing ‘match’ rules to be defined declaratively. learn more here
