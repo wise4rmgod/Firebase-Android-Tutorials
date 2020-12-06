@@ -17,7 +17,9 @@ In this tutorial, I strongly recommend that you gain some basic knowledge of Kot
 - Set up
 - Cloud Firestore
 - App Distribution
+- Automate App Distribution with Bitrise
 - Test Lab
+- Automate Test Lab with Bitrise
 - Remote Config
 - Crashlytics
 - Admob
