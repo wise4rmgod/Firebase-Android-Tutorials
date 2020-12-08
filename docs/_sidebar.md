@@ -7,7 +7,5 @@
 - [Automate Test Lab with Bitrise](testlabbitrise.md)
 - [Performance and Monitoring](monitoring.md)
 - [Crashlytics](crashlytics.md)
-- [Admob](admob.md)
-- [Storage](storage.md)
 - [Firebase Projects](projects.md)
 

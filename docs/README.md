@@ -22,8 +22,6 @@ In this tutorial, I strongly recommend that you gain some basic knowledge of Kot
 - Automate Test Lab with Bitrise
 - Remote Config
 - Crashlytics
-- Admob
-- Storage
 - Projects built with Firebase platform
 
 ## Why Learn about Firebase?
