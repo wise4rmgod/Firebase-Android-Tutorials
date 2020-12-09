@@ -13,3 +13,6 @@ feel free to open an issue if any or contribute to it, its an open source librar
  # License
 
  This project is licensed under the MIT License - see the LICENSE.md file for details
+
+ ## Find this project useful ? ❤️
+Support it by clicking the ⭐ button on the upper right of this page. ✌️
