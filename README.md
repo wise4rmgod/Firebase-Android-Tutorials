@@ -10,7 +10,7 @@ This is a Firebase Android tutorial for Beginners
 
 feel free to open an issue if any or contribute to it, its an open source library.
 
- # License
+ ## License
 
  This project is licensed under the MIT License - see the LICENSE.md file for details
 
