@@ -8,7 +8,7 @@ This is a Firebase Android tutorial for Beginners
 
 # Contributions and Issues
 
-feel free to open an issue if any or contribute to it, its an open source library.
+feel free to open an issue if any or contribute to it.
 
  ## License
 
