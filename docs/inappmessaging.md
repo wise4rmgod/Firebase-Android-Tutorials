@@ -1,4 +1,4 @@
- #Implementation of Firebase In-App Messaging in Android development
+#Implementation of Firebase In-App Messaging in Android development
 
  ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*s5lUbq98byx1f-9u0kjRLA.jpeg)
 
@@ -7,30 +7,30 @@ Firebase In-App Messaging helps you engage your app’s active users by sending 
 In this article, you will learn how to create an In-App Updater using a card that will notify your users to update their app and give them a button or text to click using Firebase In App Messaging in android development.
 In-App messaging is a dream come true, do you know why? If you want to implement it on your own, you will have to write lots of code to achieve it, but you don't have to even write a single code 🥳🤯😳 to make it work using In-App Messaging.
 
-**Examples of In App messaging format(Card, Image)**
+###**Examples of In App messaging format(Card, Image)**
 In this section, you will see how your messages are been shown to the users in a Card,banner,modal or image form below
 
-**Card Layout**
+###**Card Layout**
 This display your message using a card that can contain an image, a text and a button too another fun part about it is that the button can trigger an action or just close the card.
 
  ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*JSwCJj7TbuOf2izmNkzDQA.png)
 
- **Modal Layout**
+###**Modal Layout**
 This will display your message in a modal form having an “X” button to close the modal after reading the message, it can contain an image, a text and the x button to close it.
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*DvJRXaEEQ9YfxKgWPVmUVw.png)
 
-**Image Only Layout**
+###**Image Only Layout**
 This will just display the message using an image, it can contain an image and also have an x button that will enable the users to close it.
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*P5vVQfrW6PsSSQ0-esf7VQ.png)
 
-**Top Banner Layout**
+###**Top Banner Layout**
 This will display the message at the top of the Android device, it can contain an image, a text? to close it just click any where on the screen it will close.
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*vyRikPWbH9aVCYaIEhLykg.png)
 
-**Step by step guide to setup Firebase In-App Message**
+###**Step by step guide to setup Firebase In-App Message**
 
 Step 1: Connect Android project to Firebase
 
@@ -42,7 +42,7 @@ Click on “Firebase” in the list and the below image will showup
 
 To connect your Android project to firebase in Android studio check this link: https://wise4rmgodadmob.medium.com/how-to-connect-your-android-studio-project-to-firebase-a5f5c4d67e87
 
-**Step 2:** Add Firebase In-App Messaging dependency
+###**Step 2:** Add Firebase In-App Messaging dependency
 
 click on the **“Add Firebase In-App Messaging to you app”** button to add the dependency to your project as seen in the image below
 
@@ -50,7 +50,7 @@ click on the **“Add Firebase In-App Messaging to you app”** button to add th
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*JoIFqfJfPKrlkLmx5RcXKQ.png)
 
-**Step 3:** Create a campaigne in firebase console
+###**Step 3:** Create a campaigne in firebase console
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*xQksf1RJiZB_cpQ-DUzP2Q.png)
 
