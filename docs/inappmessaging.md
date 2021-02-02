@@ -94,4 +94,4 @@ Viola you have it live on your device, at this point you can click on the Update
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*rRtrcsrJCh7Vn-ubi-N-Kg.png)
 
-You don't need coding to set it up and have it running on your app live.
+You don't need coding to set up Firebase In-App Messaging on Android studio.
