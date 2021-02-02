@@ -91,3 +91,7 @@ Then head over to your device, restart it and you will see the result 😍
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*NhMWhzxiZ4f3G7GGm-3WAw.png)
 
 Viola you have it live on your device, at this point you can click on the Update button and it will take you to google play store to update the app.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*rRtrcsrJCh7Vn-ubi-N-Kg.png)
+
+You don't need coding to set it up and have it running on your app live.
