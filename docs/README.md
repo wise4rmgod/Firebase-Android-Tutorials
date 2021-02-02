@@ -23,6 +23,8 @@ In this tutorial, I strongly recommend that you gain some basic knowledge of Kot
 - Remote Config
 - Crashlytics
 - Projects built with Firebase platform
+- Performance monitoring
+- In-App messaging
 
 ## Why Learn about Firebase?
 
