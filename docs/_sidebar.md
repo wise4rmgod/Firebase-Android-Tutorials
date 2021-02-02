@@ -7,5 +7,6 @@
 - [Automate Test Lab with Bitrise](testlabbitrise.md)
 - [Performance and Monitoring](monitoring.md)
 - [Crashlytics](crashlytics.md)
+- [In-App Messaging](inappmessaging.md)
 - [Firebase Projects](projects.md)
 
