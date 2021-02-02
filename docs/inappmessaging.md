@@ -58,4 +58,36 @@ At this point, you will decide which of the layout will fit what you want to dis
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*B8151uQOYzi7a6bzYsZsVA.png)
 
-Its time to modify the fields to suit your taste, you will have to add a “message title” , the “body message”, add an “Image” if you want to and also add the button with or without an action. you should notice that the phone image beside changes as you modify the fields.
+Its time to modify the fields to suit your taste, you will have to add a **“message title”** , the **“body message”**, add an **“Image”** if you want to and also add the button with or without an action. you should notice that the phone image beside changes as you modify the fields.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*XkCg-H5oeXRcM5HUBD9kGg.png)
+
+Click the **“Next”** button that will take you to the next screen
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*moyjut4ORTVRepJhb8Yi5g.png)
+
+In this section, you will give your campaigne a name, a description and select the device you want to receive this campaigne and fill other fields too then click the **“Next”** button.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*6ey3-HSrmiSwaKgIryLemg.png)
+
+In this section, you decide if you want the device to receive the campaigne immediately or schedule a date for that, secondly you will choose the event you want to take place before showing the campaigne and lastly, select per device frequency and click the **“Next”** button or click the **Review** button because the two other sections are optional.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*GOb0FXkkr0gUt4SwHgTGWA.png)
+
+In this section, you will **“select conversion event”** and click on the **“Next”** button.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*MHU2eABiF4_0tuCl1vnHZg.png)
+
+In this section, add a custom data key and value or leave it blank(this section is optional) then click **“Review”**
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*jY8c3NdGIYz4bR2LVU3DrA.png)
+
+In this section, you can go over and modify them or proceed to click the publish button if everything looks okay and good.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*pz9jpZW_fl_ec01ma-u9Pg.png)
+
+Then head over to your device, restart it and you will see the result 😍
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*NhMWhzxiZ4f3G7GGm-3WAw.png)
+
+Viola you have it live on your device, at this point you can click on the Update button and it will take you to google play store to update the app.
