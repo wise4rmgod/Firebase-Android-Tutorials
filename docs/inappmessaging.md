@@ -39,3 +39,23 @@ Step 1: Connect Android project to Firebase
 Click on “Firebase” in the list and the below image will showup
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*zzU2yj8AtnOxwe8Tzkpy3A.png)
+
+To connect your Android project to firebase in Android studio check this link: https://wise4rmgodadmob.medium.com/how-to-connect-your-android-studio-project-to-firebase-a5f5c4d67e87
+
+**Step 2:** Add Firebase In-App Messaging dependency
+
+click on the **“Add Firebase In-App Messaging to you app”** button to add the dependency to your project as seen in the image below
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*NfiBlInkzleDYkkDDlBs4Q.png)
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*JoIFqfJfPKrlkLmx5RcXKQ.png)
+
+**Step 3:** Create a campaigne in firebase console
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*xQksf1RJiZB_cpQ-DUzP2Q.png)
+
+At this point, you will decide which of the layout will fit what you want to display to the users, for this article we want the users to click a button that will take them to a playstore where they will update the app. So, you will have to choose the “Card Layout” because with it you can add a button/Text with an action.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*B8151uQOYzi7a6bzYsZsVA.png)
+
+Its time to modify the fields to suit your taste, you will have to add a “message title” , the “body message”, add an “Image” if you want to and also add the button with or without an action. you should notice that the phone image beside changes as you modify the fields.
