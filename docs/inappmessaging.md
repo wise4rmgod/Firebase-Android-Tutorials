@@ -24,3 +24,18 @@ This will display your message in a modal form having an “X” button to close
 This will just display the message using an image, it can contain an image and also have an x button that will enable the users to close it.
 
 ![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*P5vVQfrW6PsSSQ0-esf7VQ.png)
+
+**Top Banner Layout**
+This will display the message at the top of the Android device, it can contain an image, a text? to close it just click any where on the screen it will close.
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*vyRikPWbH9aVCYaIEhLykg.png)
+
+**Step by step guide to setup Firebase In-App Message**
+
+Step 1: Connect Android project to Firebase
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1212/1*oCEzZHwNsZ0QN_HKwW7mCA.png)
+
+Click on “Firebase” in the list and the below image will showup
+
+![Welcome to jetpackcompose.com](https://miro.medium.com/max/1400/1*zzU2yj8AtnOxwe8Tzkpy3A.png)
